@@ -1,4 +1,4 @@
-# Ejercico 9-M3 -  Herencia en Java 
+# Ejercicio 9-M3 -  Herencia en Java 
 
 ### Equipo de desarrollo:
 
