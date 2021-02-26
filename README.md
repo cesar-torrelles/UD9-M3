@@ -1,4 +1,4 @@
-# Unidad 9-M -  Herencia en Java 
+# Ejercico 9-M3 -  Herencia en Java 
 
 ### Equipo de desarrollo:
 
@@ -26,4 +26,4 @@ MySQL Server 8.0
 MySQL Workbench 8.0
 ```
 ###  4. Screenshot imagen que indique cómo debe verse el proyecto.
-![banerGit] https://github.com/cesar-torrelles/UD9-M3/blob/main/M3.png
+![banerGit] (https://github.com/cesar-torrelles/UD9-M3/blob/main/M3.png)
