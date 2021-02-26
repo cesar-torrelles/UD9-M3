@@ -22,8 +22,7 @@ https://github.com/cesar-torrelles/UD9-M3
 ```
 ###   3. Lista de herramientas para poder ejecutarlo:
 ```
-MySQL Server 8.0
-MySQL Workbench 8.0
+Eclipse 2020-06
 ```
 ###  4. Screenshot imagen que indique cómo debe verse el proyecto.
 ![banerGit] (https://github.com/cesar-torrelles/UD9-M3/blob/main/M3.png)
